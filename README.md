@@ -1,7 +1,7 @@
 # demo
 This is my first Git repo
 <br>
-Author-Anish Patil(student)
+Author-Anish Patil(student)...
 
 # Teacher 
 Shradha khapra
